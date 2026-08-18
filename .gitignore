@@ -1,0 +1,19 @@
+# R session files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Rendered HTML previews (RStudio/Quarto)
+*.html
+*_files/
+
+# Analysis outputs
+*.csv
+*.pdf
+GO_results/
+
+# SLURM logs
+*.out
+*.err

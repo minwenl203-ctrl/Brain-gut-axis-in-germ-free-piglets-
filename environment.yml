@@ -1,0 +1,20 @@
+name: DEA
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base>=4.2
+  - r-dplyr
+  - r-ggplot2
+  - r-tidyr
+  - r-tibble
+  - r-pheatmap
+  - r-ggrepel
+  - r-rlang
+  - r-remotes
+  - r-devtools
+  - r-seurat
+  - bioconductor-complexheatmap
+  - bioconductor-clusterprofiler
+  - bioconductor-org.ss.eg.db
